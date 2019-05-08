@@ -1,0 +1,11 @@
+{
+  "name": "commonmark-tag-regex",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "kemitchell/commonmark-tag-regex.js",
+  "license": "BlueOak-1.0.0",
+  "scripts": {
+    "prepublish": "npm run build"
+  }
+}
